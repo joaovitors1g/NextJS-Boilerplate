@@ -8,6 +8,9 @@
 
 ```sh
 yarn create next-app -e https://github.com/joaovitors1g/nextjs-boilerplate
+
+# if you want to install git hooks just run the command below after git init
+npx --no-install husky install
 ```
 
 ## Run tests
